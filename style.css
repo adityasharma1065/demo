@@ -2,7 +2,8 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: "country wedding";
+    font-family: "billowy";
+    font-weight: 100;
 }
 html,body{
     height: 100%;
