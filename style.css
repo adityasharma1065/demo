@@ -1,9 +1,7 @@
 @font-face{
     font-family:"cw";
-    src:url(./Country\ Wedding.woff2)
+    src:url(./Country\ Wedding.woff2);
 }
-
-
 *{
     padding: 0;
     margin: 0;
